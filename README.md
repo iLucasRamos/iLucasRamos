@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iLucasRamo&theme=calm&show_icons=true&locale=pt-br" alt="Lucas Ramos github stats" /> 
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iLucasRamos&theme=calm&show_icons=true&locale=pt-br" alt="Lucas Ramos github stats" /> 
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&hide_border=false&title_color=c5715d&text_color=ebcfb2&bg_color=373f51&locale=pt-br" />
 </div>
 
