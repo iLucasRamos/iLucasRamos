@@ -1,5 +1,5 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=iLucasRamos&show_icons=true&theme=calm&locale=pt-br)
- <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&hide_border=false&title_color=c5715d&text_color=ebcfb2&bg_color=373f51&locale=pt-br" />
+ <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&hide_border=false&title_color=c5715d&text_color=ebcfb2&bg_color=373f51&locale=pt-br" />
 </div>
 
 ##
