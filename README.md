@@ -1,7 +1,8 @@
-<div align="center">  
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iLucasRamos&theme=calm&show_icons=true&locale=pt-br" alt="Lucas Ramos github stats" /> 
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&hide_border=false&title_color=c5715d&text_color=ebcfb2&bg_color=373f51&locale=pt-br" />
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=iLucasRamos&show_icons=true&theme=calm&locale=pt-br)
+ <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&hide_border=false&title_color=c5715d&text_color=ebcfb2&bg_color=373f51&locale=pt-br" />
 </div>
+
+##
 
 ### Principais linguagens:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -21,6 +22,11 @@
   
 ### Estudando no momento:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+##
+### Principais projetos:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iLucasRamos&theme=calm&repo=TIC-TAC-TOE)](https://github.com/iLucasRamos/TIC-TAC-TOE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iLucasRamos&theme=calm&repo=README-PROTOTIPO)](https://github.com/iLucasRamos/README-PROTOTIPO)
 #
 
 ### Entre em contato:
