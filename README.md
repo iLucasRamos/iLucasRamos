@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c5715d&size=28&center=true&vCenter=true&width=1000&lines=Muito+prazer,+meu+nome+é+Lucas.+Seja+bem-vindo!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="45%" height="300px" src="https://github-readme-stats.vercel.app/api?username=iLucasRamos&theme=calm&show_icons=true&locale=pt-br" alt="Lucas Ramos github stats" /> 
-  <img width="45%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&hide_border=false&title_color=c5715d&text_color=ebcfb2&bg_color=373f51&locale=pt-br" />
+  <img width="45%" height="170px" src="https://github-readme-stats.vercel.app/api?username=iLucasRamos&theme=calm&show_icons=true&locale=pt-br" alt="Lucas Ramos github stats" /> 
+  <img width="45%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&hide_border=false&title_color=c5715d&text_color=ebcfb2&bg_color=373f51&locale=pt-br" />
 </div>
 
 ### Principais linguagens:
