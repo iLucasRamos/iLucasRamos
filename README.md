@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=373f51&height=100&section=header"/>
-
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iLucasRamos&theme=calm&show_icons=true&locale=pt-br" alt="Lucas Ramos github stats" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&hide_border=false&title_color=c5715d&text_color=ebcfb2&bg_color=373f51&locale=pt-br" />
@@ -28,5 +26,3 @@
 ### Entre em contato:
 [![Linkedin](https://img.shields.io/badge/-linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://www.linkedin.com/in/uxlucasramos/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:svg.lucax@gmail.com)&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=373f51&height=100&section=footer"/>
