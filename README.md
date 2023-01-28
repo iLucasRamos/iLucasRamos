@@ -26,5 +26,3 @@
 ### Entre em contato:
 [![Linkedin](https://img.shields.io/badge/-linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://www.linkedin.com/in/uxlucasramos/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:svg.lucax@gmail.com)&nbsp;
-
-![Snake animation](https://github.com/iLucasRamos/iLucasRamos/blob/output/github-contribution-grid-snake.svg)
