@@ -1,5 +1,4 @@
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=iLucasRamos&show_icons=true&theme=calm&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&theme=calm&locale=pt-br)](https://github.com/iLucasRamos/github-readme-stats)
+
 
 ##
 
