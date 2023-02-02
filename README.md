@@ -1,5 +1,9 @@
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=iLucasRamo&show_icons=true&theme=calm&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamo&layout=compact&theme=calm&locale=pt-br)](https://github.com/iLucasRamos/github-readme-stats)
+<div>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iLucasRamos&show_icons=true&theme=calm&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasRamos&layout=compact&langs_count=16t&theme=calm&locale=pt-br"/>
+  
+  </div>
 
 ##
 
